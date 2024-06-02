@@ -1,6 +1,10 @@
 ## Hi, I'm Arjit👋
 
+<!-- Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjitsingh8271&show_icons=true&theme=radical)](https://github.com/arjitsingh8271/github-readme-stats)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjitsingh8271&layout=compact)
 
 <!--
 **arjitsingh8271/arjitsingh8271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
